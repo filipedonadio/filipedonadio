@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Filipe Donadio, iOS engineer currently working at ANWB and content creator.
+
+- 🚀 I’m currently working on my [YouTube channel](https://youtube.com/FilipeDonadio)
+- 🌱 I’m currently learning SwiftUI and Combine
+- 📫 How to reach me: [Twitter](https://twitter.com/FilipeDonadio) or the links in my [blog](https://filipedonadio.dev)
+- ⚡ Fun fact: I had a rock band when I was teenager 🎸
+
 <!--
 **filipedonadio/filipedonadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
