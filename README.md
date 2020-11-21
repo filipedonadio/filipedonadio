@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Filipe Donadio, iOS engineer currently working at ANWB and content creator.
+I am Filipe Donadio, iOS engineer and content creator.
 
-- 🚀 I’m currently working on my [YouTube channel](https://youtube.com/FilipeDonadio)
+- 🚀 I’m currently working on my website [SwiftMania](https://swiftmania.io/)
 - 🌱 I’m currently learning SwiftUI and Combine
-- 📫 How to reach me: [Twitter](https://twitter.com/FilipeDonadio) or the links in my [blog](https://filipedonadio.dev)
+- 📫 How to reach me: [Twitter](https://twitter.com/FilipeDonadio)
 - ⚡ Fun fact: I had a rock band when I was teenager 🎸
 
 <!--
