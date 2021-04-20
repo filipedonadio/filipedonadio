@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am Filipe Donadio, iOS engineer and content creator.
+I'm Filipe Donadio, a software engineer creating videos on [YouTube](http://youtube.com/FilipeDonadio).
 
-- 🚀 I’m currently working on my website [SwiftMania](https://swiftmania.io/)
-- 🌱 I’m currently learning SwiftUI and Combine
+- 🎥 I'm currently creating videos about productivity tools, note-taking apps, and personal development
+- 🌱 I'm learning video editing
 - 📫 How to reach me: [Twitter](https://twitter.com/FilipeDonadio)
-- ⚡ Fun fact: I had a rock band when I was teenager 🎸
+- ⚡ Fun fact: I had a rock band when I was a teenager 🎸
 
 <!--
 **filipedonadio/filipedonadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
