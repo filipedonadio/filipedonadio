@@ -4,7 +4,7 @@ I'm Filipe Donadio, a software engineer creating videos on [YouTube](http://yout
 
 - 🎥 I'm currently creating videos about productivity tools, note-taking apps, and personal development
 - 🌱 I'm learning video editing
-- 📫 How to reach me: [Twitter](https://twitter.com/FilipeDonadio)
+- 📫 How to reach me: [my website](https://filipedonadio.com/contact)
 - ⚡ Fun fact: I had a rock band when I was a teenager 🎸
 
 <!--
